@@ -1,4 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,300&display=swap');
 body{
     font-family: 'Roboto', sans-serif;
+    background-color: rgb(15, 19, 71);
 }
+
+.navbar-nav{
+    max-width: 100%;
+    margin-right: 400px;
+}
+
